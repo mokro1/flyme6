@@ -3,6 +3,6 @@
 
 | Tables        | 1           | 2  |
 | ------------- |:-------------:| -----:|
-| one      | right-aligned | $1600 |
-| two     | centered      |   $12 |
-| three | are neat      |    $1 |
+| one      | 1 | $1600 |
+| two     | 1      |  $1600 |
+| three | 1      |   $1600 |
