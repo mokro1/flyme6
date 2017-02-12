@@ -1,8 +1,8 @@
 # flyme6
 > The first repository of my projects
 
-| Tables        | Are           | Cool  |
+| Tables        | 1           | 2  |
 | ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| one      | right-aligned | $1600 |
+| two     | centered      |   $12 |
+| three | are neat      |    $1 |
