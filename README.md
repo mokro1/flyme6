@@ -1,3 +1,2 @@
 # flyme6
-####The first project of me
-> 引用语句
+> The first repository of my projects
